@@ -1,3 +1,5 @@
 # GER-UNet
-Group Equivariant Res-UNet for Medical Tumor Segmentation
+please refer to our work "Group Equivariant Res-UNet for Medical Tumor Segmentation"
+
+Under Reviewing...
 Coming soon...
